@@ -1,0 +1,7 @@
+{
+  "name": "player",
+  "private": true,
+  "scripts": {
+    "build": "node build.js"
+  }
+}
